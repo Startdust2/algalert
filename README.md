@@ -1,4 +1,4 @@
-Title: Algalert
+Title: Algalert codes and data
 Code and Data for: AlgAlert: A Two-Level Approach for Algae Bloom Prediction using
 Deep Learning
 
