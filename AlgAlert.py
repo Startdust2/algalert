@@ -5,8 +5,7 @@ Created on Mon Nov 18 09:02:43 2024
 
 @author: areejalsini
 """
-#he code to save the DataFrame as a CSV file for each regression model after adding the `Chl_a_predicted` column. Here is the modified code:
-
+#the code to save the DataFrame as a CSV file for each regression model after adding the `Chl_a_predicted` column.
 
 import pandas as pd
 import numpy as np
